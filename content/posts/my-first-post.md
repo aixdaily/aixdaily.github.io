@@ -1,24 +1,7 @@
 ---
-title: My First Post
-date = "2024-11-07T20:55:41-05:00"
-lastmod = "2024-11-07T21:58:25-05:00"
-author: Author Name
-# avatar: /img/author.jpg
-# authorlink: https://author.site
-cover: /img/cover.jpg
-# images:
-#   - /img/cover.jpg
-categories:
-  - category1
-tags:
-  - tag1
-  - tag2
-# nolastmod: true
-draft: true
+title: "My First Post"
+date: 2024-11-07
+draft: false
 ---
 
-Cut out summary from your post content here.
-
-<!--more-->
-
-The remaining content of your post.
+Hello World! This is my first post.
