@@ -1,7 +1,7 @@
 ---
 title: My First Post
-date: 2024-11-07T20:55:41-05:00
-lastmod: 2024-11-07T20:55:41-05:00
+date: 2024-11-07
+lastmod: 2024-11-07
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
