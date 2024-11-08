@@ -1,4 +1,4 @@
----
++++
 title: My First Post
 date: 2024-11-07
 lastmod: 2024-11-07
@@ -15,7 +15,7 @@ tags:
   - tag2
 # nolastmod: true
 draft: true
----
++++
 
 Cut out summary from your post content here.
 
