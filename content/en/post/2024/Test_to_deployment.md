@@ -1,6 +1,6 @@
 ---
 title: Deployment Test
-date: 2024-11-01
+date: 2024-11-10
 tags: ["hugo"]
 image : "/img/posts/img-1.jpg"
 Description  : "让我为初学者详细解释如何搭建一个 Hugo 博客。这份指南涵盖了从安装到部署的完整流程"
