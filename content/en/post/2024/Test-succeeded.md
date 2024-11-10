@@ -1,5 +1,5 @@
 ---
-title: Deployment Test
+title: 部署试验
 date: 2024-11-10
 tags: ["hugo"]
 image : "/img/posts/img-1.jpg"
