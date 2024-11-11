@@ -1,10 +1,10 @@
 ---
-title: "Youtube Test copy"
-date: 2024-11-11T10:07:12-05:00
+title: "Youtube Test Copy"
+date: 2024-11-11T09:07:12-05:00
 draft: false
 tags: ["markdown", "tutorial", "hugo", "blog"]
 image: "walmart-cucumber.jpeg"
-description: "This is a youtube test blog"
+description: "This is a youtube test blog test"
 featured: true
 ---
 
