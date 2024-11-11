@@ -3,7 +3,7 @@ title: "A Beginner's Guide to Markdown Syntax"
 date: 2024-11-10T09:06:12-05:00
 draft: false
 tags: ["markdown", "tutorial", "hugo", "blog"]
-image: "/frontyard.jpeg"
+image: "frontyard.jpeg"
 Description: "I've created a comprehensive guide that covers all the basic Markdown syntax you asked about, with clear examples and best practices. Is there any particular aspect you'd like me to explain in more detail? I can also show you how these elements look when rendered, if that would be helpful."
 featured: true
 ---
