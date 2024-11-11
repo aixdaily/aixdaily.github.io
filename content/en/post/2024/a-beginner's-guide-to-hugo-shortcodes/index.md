@@ -3,7 +3,7 @@ title: "A Beginner's Guide to Hugo Shortcodes"
 date: 2024-11-10T10:07:12-05:00
 draft: false
 tags: ["markdown", "tutorial", "hugo", "blog"]
-image: "walmart-cucumber.jpeg"
+image: "rainbow.jpeg"
 Description: "I've created a comprehensive guide that breaks down Hugo shortcodes in a beginner-friendly way. Would you like me to explain any particular section in more detail? I can also show you:"
 featured: true
 ---
