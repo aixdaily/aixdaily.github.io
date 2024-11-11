@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/post/</loc>
-    <lastmod>2024-11-10T19:55:13-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/ai/</loc>
-    <lastmod>2024-11-10T19:55:13-05:00</lastmod>
+    <lastmod>2024-11-10T22:13:03-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-11-10T19:55:13-05:00</lastmod>
+    <lastmod>2024-11-10T22:13:03-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -26,6 +21,16 @@
                 hreflang="en"
                 href="http://localhost:1313/en/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/post/2024/new-structure-test/</loc>
+    <lastmod>2024-11-10T22:13:03-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/ai/</loc>
+    <lastmod>2024-11-10T19:55:13-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/en/post/2024/ai%E8%B0%88%E8%AE%BA%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95%E4%B8%8E%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2024-11-10T19:55:13-05:00</lastmod>

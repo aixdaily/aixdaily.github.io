@@ -6,11 +6,10 @@
       <div class="card-image card-image-blog p-0">
         {{ $ := . }}
         {{ with partial "get_image" . }}
-          {{ if not (strings.Contains $.Content $.Params.image) }}
+          {{ if and (not (strings.Contains $.Content $.Params.image)) (not $.Params.hideImageInContent) }}
             <img src="{{ .RelPermalink }}" alt="{{ .Title }}" class="card-img-bottom rounded img-fluid lazyload">
           {{ end }}
         {{ end }}
-
 
         {{ if .Params.video }}
         <video loop autoplay muted playsinline class="img-title">
@@ -68,19 +67,16 @@
           </div>
           {{ end }}
 
-
           <div class="col-md-10">
             <div class="card-body p-1.1">
               <p class="p-0 m-0"><small class="text-muted">Written By</small></p>
               <p class="card-text fs-5 m-0">
-                 
                 {{ if .Site.Params.Author.name }}
                 {{ .Site.Params.Author.name | safeHTML }}
                 {{ end }}
-
               </p>
 
-               {{ if .Site.Params.Author.authorInfo }}
+              {{ if .Site.Params.Author.authorInfo }}
                 <p class="card-text fs-6  m-0">{{ .Site.Params.Author.authorInfo | safeHTML }}</p>
               {{ end }}
             </div>
@@ -95,13 +91,11 @@
       <ul class="list-group list-group-horizontal" style="flex-direction: row">
         {{ if .PrevInSection }}
         <li class="list-group-item b-0 p-0">
-
           <a type="button" class="btn btn-dark" role="button" href="{{ .PrevInSection.Permalink }}"
             data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr;
             {{ i18n "previousPost" }}</a>
         </li>
         {{ end }}
-
 
         {{ if .NextInSection }}
         <li class="list-group-item ms-auto b-0 p-0">
@@ -123,8 +117,7 @@
 <div class="">
   {{ $has_related := false }}
   {{ if .Site.Params.showRelatedPosts }}
-  {{ range first 1 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink)
-  }}
+  {{ range first 1 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
   {{ $has_related = true }}
   {{ end }}
 
@@ -137,9 +130,7 @@
       </div>
 
       {{ $num_to_show := .Site.Params.related_content_limit | default 3 }}
-      {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!="
-      .Permalink) }}
-
+      {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
       {{ partial "post_preview_card" .}}
       {{ end }}
     </div>
@@ -147,20 +138,17 @@
   {{ end }}
   {{ end }}
 
-  {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (and
-  .Site.Params.comments (ne .Type "page"))) }}
+  {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (and .Site.Params.comments (ne .Type "page"))) }}
   {{ if .Site.DisqusShortname }}
   {{ if .Site.Params.delayDisqus }}
   <div class="disqus-comments">
-    <button id="show-comments" class="btn btn-default" type="button">{{ i18n "show" }} <span
-        class="disqus-comment-count" data-disqus-url="{{ trim .Permalink " /" }}">{{ i18n "comments" }}</span></button>
+    <button id="show-comments" class="btn btn-default" type="button">{{ i18n "show" }} <span class="disqus-comment-count" data-disqus-url="{{ trim .Permalink " /" }}">{{ i18n "comments" }}</span></button>
     <div id="disqus_thread"></div>
 
     <script type="text/javascript">
       var disqus_config = function () {
         this.page.url = '{{ trim .Permalink "/" }}';
       };
-
     </script>
   </div>
   {{ else }}
