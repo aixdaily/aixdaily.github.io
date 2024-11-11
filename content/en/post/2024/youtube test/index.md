@@ -10,15 +10,11 @@ featured: true
 
 {{< youtube id="L34JL_3Jkyc" >}}
 
-
-
 ## Introduction
 
 As a beginner to Hugo, one of the first things you'll want to do is create a custom theme for your blog. A custom theme allows you to personalize the look and feel of your website, making it unique and reflective of your brand.
 
 In this tutorial, we'll guide you through the process of setting up a custom theme for your Hugo blog.
-
-
 
 ## Step 1: Create a New Theme
 
