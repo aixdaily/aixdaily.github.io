@@ -6,8 +6,15 @@
     <description>Recent content on Ai x Daily</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Nov 2024 10:07:12 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 15:25:06 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Post</title>
+      <link>http://localhost:1313/en/post/2024/my-new-post/</link>
+      <pubDate>Mon, 11 Nov 2024 15:25:06 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/my-new-post/</guid>
+      <description>&lt;p&gt;how to ensure the archetypes/bundle-post/index.md file exists.?&#xA;ChatGPT said:&lt;/p&gt;&#xA;&lt;p&gt;ChatGPT&#xA;To ensure the archetypes/bundle-post/index.md file exists, follow these steps to create and verify it:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Navigate to Your Hugo Project Directory&#xA;In the terminal, make sure you’re in your Hugo project’s root directory:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;cd /Users/minijohn/AI_Project/aixdaily.github.io&#xA;2. Create the Bundle Archetype Directory and File&#xA;Check if the archetypes folder exists in your project. If it doesn’t, create it:&#xA;mkdir -p archetypes/bundle-post&#xA;Now create the index.md file inside the bundle-post folder:&#xA;touch archetypes/bundle-post/index.md&#xA;3. Add Basic Front Matter to index.md&#xA;Open the file in a text editor and add the following front matter template:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Youtube Test</title>
       <link>http://localhost:1313/en/post/2024/youtube-test/</link>

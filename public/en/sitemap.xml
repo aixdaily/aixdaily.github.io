@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/post/</loc>
-    <lastmod>2024-11-11T10:07:12-05:00</lastmod>
+    <lastmod>2024-11-11T15:25:06-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-11-11T10:07:12-05:00</lastmod>
+    <lastmod>2024-11-11T15:25:06-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -21,6 +21,11 @@
                 hreflang="en"
                 href="http://localhost:1313/en/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/post/2024/my-new-post/</loc>
+    <lastmod>2024-11-11T15:25:06-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/en/tags/blog/</loc>
     <lastmod>2024-11-11T10:07:12-05:00</lastmod>
