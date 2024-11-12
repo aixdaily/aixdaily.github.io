@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aixdaily.github.io/ml/categories/</loc>
+    <loc>http://localhost:1313/ml/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aixdaily.github.io/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ml"
-                href="https://aixdaily.github.io/ml/categories/"
+                href="http://localhost:1313/ml/categories/"
                 />
   </url><url>
-    <loc>https://aixdaily.github.io/ml/</loc>
+    <loc>http://localhost:1313/ml/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aixdaily.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ml"
-                href="https://aixdaily.github.io/ml/"
+                href="http://localhost:1313/ml/"
                 />
   </url><url>
-    <loc>https://aixdaily.github.io/ml/tags/</loc>
+    <loc>http://localhost:1313/ml/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aixdaily.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ml"
-                href="https://aixdaily.github.io/ml/tags/"
+                href="http://localhost:1313/ml/tags/"
                 />
   </url>
 </urlset>
