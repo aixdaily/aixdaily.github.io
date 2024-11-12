@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Changed from read to write to fix potential git issues
+  contents: write  # Required for deploying to GitHub Pages
   pages: write
   id-token: write
 
@@ -15,12 +15,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3  # Use stable version
         with:
           fetch-depth: 0  # Fetch all history for .GitInfo and .Lastmod
       
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3  # Using beta version with Node.js 20 support
+        uses: peaceiris/actions-hugo@v3  # Stable version
         with:
           hugo-version: 'latest'
           extended: true
@@ -29,12 +29,13 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
+        continue-on-error: true  # Allows workflow to continue if there's a config issue
       
       - name: Build
         run: hugo --minify
       
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
 
@@ -43,8 +44,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v1  # Stable version
