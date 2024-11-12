@@ -1,0 +1,18 @@
+/* Create a new CSS file: assets/css/custom.css */
+
+.post-card {
+    border-radius: 24px !important; /* Increase this value to make corners more rounded */
+    overflow: hidden; /* Ensures content respects border radius */
+}
+
+/* If the theme uses a different class name for cards, you might need: */
+.card {
+    border-radius: 24px !important;
+    overflow: hidden;
+}
+
+/* For the card image if present */
+.post-card img,
+.card img {
+    border-radius: 24px 24px 0 0; /* Rounded top corners for images */
+}

@@ -22,6 +22,26 @@
                 href="http://localhost:1313/en/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/post/2024/bundle-test/</loc>
+    <lastmod>2024-11-11T19:25:24-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/post/2024/my-new-post-2/</loc>
+    <lastmod>2024-11-11T19:06:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/post/2024/articlename/</loc>
+    <lastmod>2024-11-11T19:05:38-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/post/2024/my-new-post/</loc>
+    <lastmod>2024-11-11T15:25:06-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/en/tags/blog/</loc>
     <lastmod>2024-11-11T10:07:12-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -59,6 +79,11 @@
   </url><url>
     <loc>http://localhost:1313/en/post/2024/youtube-test/</loc>
     <lastmod>2024-11-11T10:07:12-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/post/2024/new-structure-test/</loc>
+    <lastmod>2024-11-10T22:13:03-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -109,6 +134,16 @@
   </url><url>
     <loc>http://localhost:1313/en/post/2024/understanding-markdown--a-beginners-guide/</loc>
     <lastmod>2024-11-10T09:06:12-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/post/2024/beginners-guide-to-building-a-hugo-blog/</loc>
+    <lastmod>2024-11-10T08:51:54-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/post/2024/hugo%E4%B8%BB%E9%A2%98%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2024-11-10T08:34:12-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
