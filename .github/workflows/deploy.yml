@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Required for deploying to GitHub Pages
+  contents: write
   pages: write
   id-token: write
 
@@ -15,9 +15,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4  # Updated to v4 for Node.js 20 compatibility
         with:
-          fetch-depth: 0  # Fetch all history for .GitInfo and .Lastmod
+          fetch-depth: 0
 
       - name: Clear Git Cache (if any)
         run: |
@@ -38,12 +38,12 @@ jobs:
 
       - name: Build
         run: hugo --minify
-      
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3  
         with:
           path: ./public
-          
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -52,4 +52,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1  # Stable version
+        uses: actions/deploy-pages@v4  # Updated to v4 for Node.js 20 compatibility
