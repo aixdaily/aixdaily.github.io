@@ -1,6 +1,6 @@
 ---
 title: "How to Build a $20k/Month Website Business: A Complete Guide"
-date: 2024-11-11
+date: 2024-11-12
 draft: false
 description: "Learn how to build a profitable website business by offering services to local businesses, from finding clients to scaling your income with recurring revenue."
 categories: ["Business", "Entrepreneurship"]
