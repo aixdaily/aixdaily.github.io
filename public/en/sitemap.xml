@@ -92,6 +92,61 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://aixdaily.github.io/en/categories/business/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://aixdaily.github.io/en/categories/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ml"
+                href="https://aixdaily.github.io/ml/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aixdaily.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://aixdaily.github.io/en/tags/digital-nomad/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://aixdaily.github.io/en/categories/entrepreneurship/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://aixdaily.github.io/en/tags/freelancing/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://aixdaily.github.io/en/post/2024/how-to-build-a-20k/month-website-business-a-complete-guide/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://aixdaily.github.io/en/tags/local-business/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://aixdaily.github.io/en/tags/passive-income/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://aixdaily.github.io/en/tags/websites/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://aixdaily.github.io/en/post/2024/a-beginners-guide-to-hugo-shortcodes/</loc>
     <lastmod>2024-11-10T10:07:12-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -260,19 +315,5 @@
     <loc>https://aixdaily.github.io/en/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://aixdaily.github.io/en/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ml"
-                href="https://aixdaily.github.io/ml/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aixdaily.github.io/en/categories/"
-                />
   </url>
 </urlset>
