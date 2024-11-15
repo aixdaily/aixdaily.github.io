@@ -1,0 +1,12 @@
+baseURL = "https://aixdaily.github.io/"
+title = "My Video Site"
+theme = "blowfish"
+
+[params]
+  author = "John Doe"
+  description = "Personal video website built with Hugo"
+  github = "username"
+  twitter = "username"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in Markdown files

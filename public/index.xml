@@ -1,11 +1,271 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lightbi</title>
+    <title>My Video Site</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Lightbi</description>
+    <description>Recent content on My Video Site</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 14 Nov 2024 14:27:23 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Video</title>
+      <link>http://localhost:1313/en/post/2024/personal-video/</link>
+      <pubDate>Thu, 14 Nov 2024 14:27:23 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/personal-video/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChatGPT Prompts</title>
+      <link>http://localhost:1313/en/post/2024/chatgpt-prompts/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2024/chatgpt-prompts/</guid>
+      <description>Thanks for watching my video about “Fastest way to learn coding with AI”. In this post, I’ll share all the prompts mentioned in the video to help you get started on your learning journey.&#xA;Roadmap Prompt:&#xA;I want to learn [X]. Please create a comprehensive study plan following the 80-20 rule, focusing on the core 20% of concepts that will allow me to start building projects. The plan should be structured week by week for [Y] weeks, with each week covering specific topics.</description>
+    </item>
+    <item>
+      <title>My New Post 2</title>
+      <link>http://localhost:1313/en/post/2024/my-new-post-2/</link>
+      <pubDate>Mon, 11 Nov 2024 19:06:46 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/my-new-post-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Getting Started with Hugo: A Beginner&#39;s Guide</title>
+      <link>http://localhost:1313/en/post/2024/getting-started-with-hugo-a-beginners-guide/</link>
+      <pubDate>Mon, 11 Nov 2024 19:05:38 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/getting-started-with-hugo-a-beginners-guide/</guid>
+      <description>Getting Started with Hugo: A Beginner&amp;rsquo;s Guide&#xA;Prerequisites Before starting with Hugo, make sure you have:&#xA;A GitHub account Basic knowledge of command prompt/terminal A text editor (like VS Code) Installation Guide (Windows) Download Hugo&#xA;Go to Hugo&amp;rsquo;s official documentation Navigate to the Windows installation section Download the latest prebuilt binaries for your system Set Up Hugo&#xA;Create a folder named hugo on your system Inside it, create another folder named bin Extract the downloaded files into the bin folder You should see three files in the bin folder Configure Environment Variables</description>
+    </item>
+    <item>
+      <title>How to Build a $20k/Month Website Business: A Complete Guide</title>
+      <link>http://localhost:1313/en/post/2024/how-to-build-a-20k/month-website-business-a-complete-guide/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2024/how-to-build-a-20k/month-website-business-a-complete-guide/</guid>
+      <description>Introduction Want to know how some people make doctor-level income selling websites? The secret isn&amp;rsquo;t in creating complex custom websites from scratch - it&amp;rsquo;s in working smarter with templates and providing real value to local businesses. This guide breaks down a proven process that has helped people transition from struggling freelancers to successful digital entrepreneurs.&#xA;The Core Problem with Traditional Freelancing Many freelance web developers face a common challenge: income inconsistency.</description>
+    </item>
+    <item>
+      <title>My New Post</title>
+      <link>http://localhost:1313/en/post/2024/my-new-post/</link>
+      <pubDate>Mon, 11 Nov 2024 15:25:06 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/my-new-post/</guid>
+      <description>how to ensure the archetypes/bundle-post/index.md file exists.? ChatGPT said:&#xA;ChatGPT To ensure the archetypes/bundle-post/index.md file exists, follow these steps to create and verify it:&#xA;Navigate to Your Hugo Project Directory In the terminal, make sure you’re in your Hugo project’s root directory: cd /Users/minijohn/AI_Project/aixdaily.github.io 2. Create the Bundle Archetype Directory and File Check if the archetypes folder exists in your project. If it doesn’t, create it: mkdir -p archetypes/bundle-post Now create the index.</description>
+    </item>
+    <item>
+      <title>Youtube Test</title>
+      <link>http://localhost:1313/en/post/2024/youtube-test/</link>
+      <pubDate>Mon, 11 Nov 2024 10:07:12 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/youtube-test/</guid>
+      <description>Introduction As a beginner to Hugo, one of the first things you&amp;rsquo;ll want to do is create a custom theme for your blog. A custom theme allows you to personalize the look and feel of your website, making it unique and reflective of your brand.&#xA;In this tutorial, we&amp;rsquo;ll guide you through the process of setting up a custom theme for your Hugo blog.&#xA;Step 1: Create a New Theme Open your terminal or command prompt and navigate to your Hugo project directory.</description>
+    </item>
+    <item>
+      <title>New Structure Test</title>
+      <link>http://localhost:1313/en/post/2024/new-structure-test/</link>
+      <pubDate>Sun, 10 Nov 2024 22:13:03 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/new-structure-test/</guid>
+      <description>test test test test </description>
+    </item>
+    <item>
+      <title>AI谈论推荐算法与信息茧房的问题</title>
+      <link>http://localhost:1313/en/post/2024/ai%E8%B0%88%E8%AE%BA%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95%E4%B8%8E%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Sun, 10 Nov 2024 19:55:13 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/ai%E8%B0%88%E8%AE%BA%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95%E4%B8%8E%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+      <description>这期节目在抖音已经突破60万的播放量，我们让AI谈论推荐算法与信息茧房的问题。&#xA;This episode on Douyin has over 600,000 views, featuring an AI discussing recommendation algorithms and information bubbles.#aiart #aitalk pic.twitter.com/xmTni5YKBx&#xA;&amp;mdash; 汗青 HQ (@hanqing_me) November 10, 2024 Twitter url: https://x.com/hanqing_me/status/1855555630121238942&#xA;引言 随着人工智能的迅速发展及其在各大社交媒体平台的应用，关于推荐算法和信息茧房的讨论日益增多。最近，在抖音上播放的一集节目中，AI探讨了这些算法对信息消费的影响，节目播放量超过60万次，引发了广泛关注。&#xA;节目在抖音上的受欢迎度 这集节目在抖音上的高播放量表明，中国观众对推荐算法如何影响他们看到的内容有着浓厚的兴趣。这种高关注度反映出人们对算法偏见及其潜在信息多样性影响的意识正在逐渐提升。&#xA;AI在节目的角色 在本期节目中，AI扮演了核心角色，可能是作为主持人、辩论者，或是信息提供者。让AI主导讨论这样的复杂话题，展示了一种新颖的方式，可能会影响观众的观看体验和互动方式。&#xA;标签与潜在受众 节目使用了#aiart和#aitalk等标签，暗示目标观众对AI、艺术和传播的交叉领域感兴趣。在这些特定标签下讨论推荐算法问题，吸引了那些不仅对技术感兴趣，也关注AI对社会影响的观众。&#xA;节目结构与AI的观点 这期抖音节目采用了展示和纪录片风格的形式，AI详细阐述了推荐算法的工作原理及其对用户的影响。AI指出，算法会影响用户接触到的内容，从而潜移默化地塑造他们的观点，甚至可能导致信息茧房的产生。&#xA;信息茧房：定义与问题 节目深入探讨了“信息茧房”这一概念，即用户接触的内容往往与其已有的观念相符，可能限制了他们接触多样化视角的机会。这种效应引发了对观点极化和偏见强化的担忧。&#xA;中国背景下的相关性 虽然信息茧房和推荐算法是普遍现象，但该节目引入了一些中国数字环境中的具体例子，帮助观众理解推荐算法对他们日常信息获取的直接影响。&#xA;可能的解决方案与缓解措施 节目还探讨了可能的解决方案，如算法透明度和增加用户对内容推荐的控制。这些建议与AI负责任使用和算法伦理设计的更广泛呼声相一致。&#xA;观众反应与关键见解 观众评论呈现出支持与质疑并存的态度，有些观众称赞AI的见解，有些则质疑解决方案的可行性。总体而言，高互动度表明公众对理解AI在数字体验中作用的强烈兴趣。&#xA;结论 这集抖音节目展示了AI在教育和引发复杂社会议题讨论方面的潜力。随着AI继续影响我们的数字体验，理解其在推荐算法和信息茧房方面的作用变得至关重要。&#xA;您对AI在社交媒体上的角色有何看法？欢迎在下方评论区分享您的观点！</description>
+    </item>
+    <item>
+      <title>A Beginner&#39;s Guide to Hugo Shortcodes</title>
+      <link>http://localhost:1313/en/post/2024/a-beginners-guide-to-hugo-shortcodes/</link>
+      <pubDate>Sun, 10 Nov 2024 10:07:12 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/a-beginners-guide-to-hugo-shortcodes/</guid>
+      <description>A Beginner&amp;rsquo;s Guide to Hugo Shortcodes What are Hugo Shortcodes? Hugo shortcodes are special templates that let you easily add rich content to your website without writing complex HTML code. Think of them as simple shortcuts for inserting things like videos, tweets, and other media into your pages.&#xA;Understanding Built-in Shortcodes Basic Syntax Shortcodes in Hugo use this format: Copy{{% shortcode-name parameters %}} # for markdown content {{&amp;lt; shortcode-name parameters &amp;gt;}} # for HTML content YouTube Videos</description>
+    </item>
+    <item>
+      <title>Markdown 语法入门指南</title>
+      <link>http://localhost:1313/en/post/2024/markdown-%E8%AF%AD%E6%B3%95%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Sun, 10 Nov 2024 09:07:12 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/markdown-%E8%AF%AD%E6%B3%95%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</guid>
+      <description>Markdown 语法入门指南 目录 Markdown 语法入门指南 目录 标题设置 段落格式 文字样式 粗体文本 斜体文本 粗体和斜体组合 图片插入 实际示例 标题设置 标题使用井号（#）创建。井号的数量决定标题的级别：&#xA;# 一级标题（最大） ## 二级标题 ### 三级标题 #### 四级标题 ##### 五级标题 ###### 六级标题（最小） 重要提示：&#xA;井号后必须加一个空格 标题级别要按顺序使用（不要从一级标题直接跳到四级标题） 每个文档建议只使用一个一级标题 段落格式 在 Markdown 中创建段落非常简单，只需要用空行分隔文本：&#xA;这是第一段文字。 这是第二段文字。 这是第三段文字。 使用建议： 不要用空格或制表符缩进段落。&#xA;文字样式 粗体文本 有两种方式可以将文字设置为粗体：&#xA;**使用双星号** __使用双下划线__ 这个词的**中间部分**是粗体 斜体文本 同样有两种方式可以将文字设置为斜体：&#xA;*使用单星号* _使用单下划线_ 这个词的*中间部分*是斜体 粗体和斜体组合 你可以组合使用两种样式：&#xA;***粗体加斜体*** **_粗体加斜体_** 图片插入 图片使用以下语法：&#xA;![替代文本](图片URL &amp;#34;可选标题&amp;#34;) 示例：&#xA;![可爱的猫咪](https://example.com/cat.jpg &amp;#34;我的猫&amp;#34;) 语法解析：&#xA;! - 告诉 Markdown 这是一张图片 [替代文本] - 图片的描述（当图片无法显示时会显示这段文字） (URL) - 图片的网址或文件路径 &amp;quot;可选标题&amp;quot; - 鼠标悬停在图片上时显示的文字 实际示例 这是一个综合运用的例子：</description>
+    </item>
+    <item>
+      <title>A Beginner&#39;s Guide to Markdown Syntax</title>
+      <link>http://localhost:1313/en/post/2024/a-beginners-guide-to-markdown-syntax/</link>
+      <pubDate>Sun, 10 Nov 2024 09:06:12 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/a-beginners-guide-to-markdown-syntax/</guid>
+      <description>A Beginner&amp;rsquo;s Guide to Markdown Syntax Table of Contents Headings Paragraphs Text Styling Images Examples Headings Headings are created using the hash symbol (#). The number of hashes determines the heading level:&#xA;# Heading 1 (Largest) ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6 (Smallest) Important Tips:&#xA;Always put a space after the hash symbols Use heading levels in order (don&amp;rsquo;t skip from H1 to H4) Only use one H1 per document Paragraphs Creating paragraphs in Markdown is simple.</description>
+    </item>
+    <item>
+      <title>Understanding Markdown: A Beginner&#39;s Guide</title>
+      <link>http://localhost:1313/en/post/2024/understanding-markdown--a-beginners-guide/</link>
+      <pubDate>Sun, 10 Nov 2024 09:06:12 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/understanding-markdown--a-beginners-guide/</guid>
+      <description>Understanding Markdown: A Beginner&amp;rsquo;s Guide What is Markdown? Markdown is a simple way to format text that looks great on any device. Think of it as a simplified version of HTML or a smarter way to write for the web.&#xA;Why Use Markdown? Simplicity&#xA;Easy to learn Quick to write Clean to read Portability&#xA;Works everywhere Converts to HTML Future-proof format Versatility&#xA;Blogs Documentation Notes README files Technical writing Basic Markdown Syntax 1.</description>
+    </item>
+    <item>
+      <title>Beginner&#39;s Guide to Building a Hugo Blog</title>
+      <link>http://localhost:1313/en/post/2024/beginners-guide-to-building-a-hugo-blog/</link>
+      <pubDate>Sun, 10 Nov 2024 08:51:54 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/beginners-guide-to-building-a-hugo-blog/</guid>
+      <description>Beginner&amp;rsquo;s Guide to Building a Hugo Blog What is Hugo? Hugo is a fast, modern static site generator written in Go. Its main advantages include:&#xA;Speed: Extremely fast website generation Easy Deployment: Can be deployed anywhere GitHub Pages Amazon S3 Netlify Vercel etc. No Dependencies: No database required Zero Maintenance: No server maintenance needed Why Choose Hugo? Simplicity&#xA;Easy installation Intuitive configuration Simple content management High Performance&#xA;Fast page loading Quick build times Low resource usage Flexibility</description>
+    </item>
+    <item>
+      <title>Hugo主题使用入门指南</title>
+      <link>http://localhost:1313/en/post/2024/hugo%E4%B8%BB%E9%A2%98%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Sun, 10 Nov 2024 08:34:12 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/hugo%E4%B8%BB%E9%A2%98%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</guid>
+      <description>Hugo 主题使用入门指南 前置要求 开始之前，请确保您已准备：&#xA;系统中已安装 Hugo 代码编辑器（如 VS Code、Sublime Text 等） 基本的命令行操作知识 步骤一：主题安装 从源地址下载主题 解压下载的文件 进入主题文件夹： cd lightbi-hugo-master 步骤二：项目结构 主题文件夹应包含以下重要目录：&#xA;archetypes/ - 包含默认内容模板 content/ - 存放网站内容的地方 layouts/ - 包含主题模板 static/ - 用于静态文件（图片、CSS、JavaScript） config.toml - 主配置文件 步骤三：构建网站 构建网站，运行： hugo 此命令将：&#xA;创建 public/ 目录 从您的内容生成静态文件 应用主题样式 本地预览网站： hugo server 此命令将：&#xA;启动开发服务器 使您的网站在 http://localhost:1313 可访问 启用实时重载以实时查看更改 步骤四：添加内容 创建新内容： hugo new posts/my-first-post.md 在 content/posts 目录中编辑生成的 markdown 文件 步骤五：自定义设置 通过编辑 config.toml 配置您的网站： baseURL = &amp;#34;https://example.org/&amp;#34; languageCode = &amp;#34;zh-cn&amp;#34; title = &amp;#34;我的新 Hugo 网站&amp;#34; theme = &amp;#34;lightbi-hugo&amp;#34; 根据主题文档自定义主题参数 常见问题及解决方案 如果服务器无法启动：</description>
+    </item>
+    <item>
+      <title>Beginner&#39;s Guide to Using a Hugo Theme</title>
+      <link>http://localhost:1313/en/post/2024/beginners-guide-to-using-hugo-theme/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2024/beginners-guide-to-using-hugo-theme/</guid>
+      <description>Beginner&amp;rsquo;s Guide to Using a Hugo Theme Prerequisites Before you begin, ensure you have:&#xA;Hugo installed on your system A code editor (like VS Code, Sublime Text, etc.) Basic familiarity with command line operations Step 1: Theme Installation Download the theme from the source Unzip the downloaded file Navigate to the theme folder: cd lightbi-hugo-master Step 2: Project Structure The theme folder should contain these essential directories:&#xA;archetypes/ - Contains default content templates content/ - Where your website content goes layouts/ - Contains theme templates static/ - For static files (images, CSS, JavaScript) config.</description>
+    </item>
+    <item>
+      <title>Host a Static Website for Free on Netlify</title>
+      <link>http://localhost:1313/en/post/2024/host-a-static-website-for-free-on-netlify/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2024/host-a-static-website-for-free-on-netlify/</guid>
+      <description>Hosting Your Hugo Website for Free on Netlify What is Netlify? Netlify is like a free hosting service for your website - think of it as a place that makes your website available to everyone on the internet. It&amp;rsquo;s especially good for static websites (like those built with Hugo) because:&#xA;It&amp;rsquo;s completely free for basic use It&amp;rsquo;s very fast It&amp;rsquo;s easy to set up It automatically updates your site when you make changes Setting Up Your Site on Netlify Step 1: Prepare Your Configuration Create a file called netlify.</description>
+    </item>
+    <item>
+      <title>Hugo 博客搭建入门指南</title>
+      <link>http://localhost:1313/en/post/2024/hugo-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2024/hugo-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</guid>
+      <description>Hugo 博客搭建入门指南 什么是 Hugo？ Hugo 是一个快速、现代的静态网站生成器，用 Go 语言编写。它的主要优势包括：&#xA;速度快：生成网站速度极快 部署简单：可以部署在任何地方 GitHub Pages Amazon S3 Netlify Vercel 等 无依赖：不需要数据库 零运维：不需要服务器维护 为什么选择 Hugo？ 简单性&#xA;安装便捷 配置直观 内容管理简单 高性能&#xA;页面加载迅速 构建速度快 资源占用少 灵活性&#xA;支持多种主题 可自定义程度高 Markdown 写作 Windows 系统安装步骤 安装 Hugo&#xA;# 方法一：使用 Chocolatey 包管理器 choco install hugo -confirm # 方法二：使用 Scoop scoop install hugo 或者直接从 Hugo Releases 下载可执行文件&#xA;验证安装&#xA;hugo version 创建新博客 创建网站&#xA;# 创建新网站 hugo new site my-blog cd my-blog 添加主题</description>
+    </item>
+    <item>
+      <title>Youtube Test Copy</title>
+      <link>http://localhost:1313/en/post/2024/youtube-test-copy/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2024/youtube-test-copy/</guid>
+      <description>Introduction As a beginner to Hugo, one of the first things you&amp;rsquo;ll want to do is create a custom theme for your blog. A custom theme allows you to personalize the look and feel of your website, making it unique and reflective of your brand.&#xA;In this tutorial, we&amp;rsquo;ll guide you through the process of setting up a custom theme for your Hugo blog.&#xA;Step 1: Create a New Theme Open your terminal or command prompt and navigate to your Hugo project directory.</description>
+    </item>
+    <item>
+      <title>在 Netlify 上免费托管您的 Hugo 网站</title>
+      <link>http://localhost:1313/en/post/2024/%E5%9C%A8-netlify-%E4%B8%8A%E5%85%8D%E8%B4%B9%E6%89%98%E7%AE%A1%E6%82%A8%E7%9A%84-hugo-%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2024/%E5%9C%A8-netlify-%E4%B8%8A%E5%85%8D%E8%B4%B9%E6%89%98%E7%AE%A1%E6%82%A8%E7%9A%84-hugo-%E7%BD%91%E7%AB%99/</guid>
+      <description>在 Netlify 上免费托管您的 Hugo 网站 什么是 Netlify？ Netlify 是一个免费的网站托管服务 - 可以将其视为让所有人都能在互联网上访问您网站的平台。它特别适合静态网站（如使用 Hugo 构建的网站），因为：&#xA;基础使用完全免费 速度非常快 设置简单 当您进行更改时自动更新网站 在 Netlify 上设置您的网站 第一步：准备配置 在项目主文件夹中创建一个名为 netlify.toml 的文件。此文件告诉 Netlify 如何处理您的网站：&#xA;[build] publish = &amp;#34;public&amp;#34; # 告诉 Netlify 您的完成网站文件在哪里 command = &amp;#34;hugo --gc --minify&amp;#34; # 告诉 Netlify 使用 Hugo 构建您的网站 # 主网站的设置 [context.production.environment] HUGO_VERSION = &amp;#34;0.82.0&amp;#34; # 指定使用的 Hugo 版本 HUGO_ENV = &amp;#34;production&amp;#34; # 告诉 Hugo 这是用于您的正式网站 HUGO_ENABLEGITINFO = &amp;#34;true&amp;#34; # 允许 Hugo 使用 Git 信息 # 不同部署场景的设置 [context.</description>
+    </item>
+    <item>
+      <title>Markdown 入门指南：给初学者的详细说明</title>
+      <link>http://localhost:1313/en/post/2024/markdown-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E7%BB%99%E5%88%9D%E5%AD%A6%E8%80%85%E7%9A%84%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E/</link>
+      <pubDate>Sat, 09 Nov 2024 09:06:12 -0500</pubDate>
+      <guid>http://localhost:1313/en/post/2024/markdown-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E7%BB%99%E5%88%9D%E5%AD%A6%E8%80%85%E7%9A%84%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E/</guid>
+      <description>Markdown 入门指南：给初学者的详细说明 什么是 Markdown？ Markdown 是一种轻量级的文本格式化工具，它让你能够用简单的符号来美化文本。想象一下，它就像是一个更简单的 Word，但是用的是特殊符号而不是按钮来排版。&#xA;为什么要用 Markdown？ 简单易学&#xA;只需要记住几个符号 不需要复杂的软件 写作过程不被打断 通用性强&#xA;可以转换成网页 可以转换成 PDF 几乎所有平台都支持 实用场景广&#xA;写博客 做笔记 写文档 写说明书 基础语法示例 1. 标题的写法 # 一级标题 ## 二级标题 ### 三级标题 效果如下：&#xA;一级标题 二级标题 三级标题 2. 文字样式 **粗体文字** *斜体文字* ~~删除线~~ 效果如下：&#xA;粗体文字 斜体文字 删除线 3. 列表 - 苹果 - 香蕉 - 小香蕉 - 大香蕉 1. 第一步 2. 第二步 效果如下：&#xA;苹果 香蕉 小香蕉 大香蕉 第一步 第二步 Markdown vs Word Microsoft Word 的特点： 所见即所得（WYSIWYG） 点击按钮立即看到效果 像画画一样排版 需要鼠标操作 Markdown 的特点： 用符号标记格式 使用简单符号标记 专注于内容 键盘即可完成 实际应用场景 写博客</description>
+    </item>
+    <item>
+      <title>Collections No.1</title>
+      <link>http://localhost:1313/en/collections/2023/collections/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/collections/2023/collections/</guid>
+      <description>Articles about learn in public, brag document and free stuffs.&#xA;Learn In Public If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&#xA;A habit of creating learning exhaust:&#xA;Write blogs and tutorials and cheatsheets. Speak at meetups and conferences. Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.</description>
+    </item>
+    <item>
+      <title>Collections No.2</title>
+      <link>http://localhost:1313/en/collections/2023/collections2/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/collections/2023/collections2/</guid>
+      <description>Articles about learn in public, brag document and free stuffs.&#xA;Learn In Public If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&#xA;A habit of creating learning exhaust:&#xA;Write blogs and tutorials and cheatsheets. Speak at meetups and conferences. Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.</description>
+    </item>
+    <item>
+      <title>Collections No.3</title>
+      <link>http://localhost:1313/en/collections/2023/collections3/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/collections/2023/collections3/</guid>
+      <description>Articles about learn in public, brag document and free stuffs.&#xA;Learn In Public If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&#xA;A habit of creating learning exhaust:&#xA;Write blogs and tutorials and cheatsheets. Speak at meetups and conferences. Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.</description>
+    </item>
+    <item>
+      <title>Collections No.4</title>
+      <link>http://localhost:1313/en/collections/2023/collections4/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/collections/2023/collections4/</guid>
+      <description>Articles about learn in public, brag document and free stuffs.&#xA;Learn In Public If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&#xA;A habit of creating learning exhaust:&#xA;Write blogs and tutorials and cheatsheets. Speak at meetups and conferences. Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.</description>
+    </item>
+    <item>
+      <title>Collections No.5</title>
+      <link>http://localhost:1313/en/collections/2023/collections5/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/collections/2023/collections5/</guid>
+      <description>Articles about learn in public, brag document and free stuffs.&#xA;Learn In Public If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&#xA;A habit of creating learning exhaust:&#xA;Write blogs and tutorials and cheatsheets. Speak at meetups and conferences. Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.</description>
+    </item>
+    <item>
+      <title>Collections No.6</title>
+      <link>http://localhost:1313/en/collections/2023/collections6/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/collections/2023/collections6/</guid>
+      <description>Articles about learn in public, brag document and free stuffs.&#xA;Learn In Public If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&#xA;A habit of creating learning exhaust:&#xA;Write blogs and tutorials and cheatsheets. Speak at meetups and conferences. Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.</description>
+    </item>
+    <item>
+      <title>How to use this Hugo theme ?</title>
+      <link>http://localhost:1313/en/post/2020/jan/use-this-theme/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2020/jan/use-this-theme/</guid>
+      <description>After downloading the theme, unzip the file and go to the &amp;rsquo;lightbi-hugo-master&amp;rsquo; folder. Open the folder in you editor and run the hugo build command as below.&#xA;hugo It will create a folder named &amp;lsquo;public&amp;rsquo; and in the same you can find the website created by Hugo from the contents from &amp;lsquo;content&amp;rsquo; folder and the theme. To check the website you can run the below command,&#xA;hugo server In the command prompt you can see that your website has started to build and it will normally available at &amp;lsquo;http://localhost:1313/&amp;rsquo;.</description>
+    </item>
+    <item>
+      <title>Build a Hugo Blog</title>
+      <link>http://localhost:1313/en/post/2020/jan/build-hugo-blog/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2020/jan/build-hugo-blog/</guid>
+      <description>Hugo? It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.&#xA;First I started to use Hugo is for my Malayalam write up a blog wizbi tales (Malayalam is a language spoken in Kerala, India), After the initial learning curves, I loved it for simplicity and performance. And when I started this blog itself I didn’t think twice.</description>
+    </item>
+    <item>
+      <title>Note 1</title>
+      <link>http://localhost:1313/en/notes/2020/change/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/2020/change/</guid>
+      <description>Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.</description>
+    </item>
+    <item>
+      <title>Note 2</title>
+      <link>http://localhost:1313/en/notes/2020/change2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/2020/change2/</guid>
+      <description>Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.</description>
+    </item>
+    <item>
+      <title>Note 3</title>
+      <link>http://localhost:1313/en/notes/2020/change3/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/2020/change3/</guid>
+      <description>Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.</description>
+    </item>
+    <item>
+      <title>What is Markdown ?</title>
+      <link>http://localhost:1313/en/post/2020/jan/markdown/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2020/jan/markdown/</guid>
+      <description>What is Markdown?&#xA;The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.&#xA;Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.&#xA;Using Markdown is different than using a WYSIWYG editor.</description>
+    </item>
+    <item>
+      <title>Basic Syntax</title>
+      <link>http://localhost:1313/en/post/2020/jan/syntax/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2020/jan/syntax/</guid>
+      <description>Headings&#xA;To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (h3), use three number signs (e.g., ### My Header). Heading level 1 Heading level 2 Heading level 3 Heading level 4 Heading level 5 Heading level 6 Paragraphs&#xA;To create paragraphs, use a blank line to separate one or more lines of text.</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/en/post/2020/jan/rich-content/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2020/jan/rich-content/</guid>
+      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&#xA;YouTube privacy enhanced shortcode The youtube shortcode embeds a responsive video player for YouTube videos. Only the ID of the video is required, e.g.:&#xA;YouTube URL:&#xA;https://www.youtube.com/watch?v=3qHkcs3kG44 Shortcode:&#xA;{{&amp;lt; youtube 3qHkcs3kG44 &amp;gt;}} Rendered output: Twitter You want to include a single tweet into your blog post?</description>
+    </item>
+    <item>
+      <title>Host in Netlify</title>
+      <link>http://localhost:1313/en/post/2020/jan/netlify-conf/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2020/jan/netlify-conf/</guid>
+      <description>You can host your static website wth zero cost in Netlify.&#xA;Add the below netlify.toml in the root folder.&#xA;[build]&#xD;publish = &amp;quot;public&amp;quot;&#xD;command = &amp;quot;hugo --gc --minify&amp;quot;&#xD;[context.production.environment]&#xD;HUGO_VERSION = &amp;quot;0.82.0&amp;quot;&#xD;HUGO_ENV = &amp;quot;production&amp;quot;&#xD;HUGO_ENABLEGITINFO = &amp;quot;true&amp;quot;&#xD;[context.split1]&#xD;command = &amp;quot;hugo --gc --minify --enableGitInfo&amp;quot;&#xD;[context.split1.environment]&#xD;HUGO_VERSION = &amp;quot;0.82.0&amp;quot;&#xD;HUGO_ENV = &amp;quot;production&amp;quot;&#xD;[context.deploy-preview]&#xD;command = &amp;quot;hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL&amp;quot;&#xD;[context.deploy-preview.environment]&#xD;HUGO_VERSION = &amp;quot;0.82.0&amp;quot;&#xD;[context.branch-deploy]&#xD;command = &amp;quot;hugo -b $DEPLOY_PRIME_URL&amp;quot;&#xD;[context.</description>
+    </item>
+    <item>
+      <title>Who am I ?!</title>
+      <link>http://localhost:1313/en/post/2020/jan/who-am-i/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2020/jan/who-am-i/</guid>
+      <description>Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.&#xA;As a child, the answer to this question was simple. Say my name to the question of who. Aha ..! Simple and beautiful. In that answer, parents and siblings in adolescence. I thought to myself that the answer was too clear.&#xA;When I started asking myself this question at a young age when I was beginning to recognize many things, I began to feel that the answer was becoming less clear.</description>
+    </item>
   </channel>
 </rss>
