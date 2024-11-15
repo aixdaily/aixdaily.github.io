@@ -8,6 +8,6 @@ draft: true
 ---
 
 
-{{< video src="/videos/find-our-peace.mp4" type="video/mp4" width="640" height="360" >}}
+{{< video src="/videos/find_our_peace.mp4" type="video/mp4" style="width:100%;height:100%;" >}}
 
 Here is the description of my first video. I talk about...
