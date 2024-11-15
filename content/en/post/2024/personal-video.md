@@ -7,8 +7,7 @@ image : ""
 draft: true
 ---
 
-<!-- {{< video src="/find-our-peace.mp4" type="video/mp4" >}} -->
-{{< video src="/videos/find-our-peace.mp4" type="video/mp4" width="640" height="360">}}
+
 {{< video src="/videos/find-our-peace.mp4" type="video/mp4" width="640" height="360" >}}
 
 Here is the description of my first video. I talk about...
