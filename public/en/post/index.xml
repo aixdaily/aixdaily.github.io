@@ -23,13 +23,6 @@
       <description>Thanks for watching my video about “Fastest way to learn coding with AI”. In this post, I’ll share all the prompts mentioned in the video to help you get started on your learning journey.</description>
     </item>
     <item>
-      <title>My New Post 2</title>
-      <link>http://localhost:1313/en/post/2024/my-new-post-2/</link>
-      <pubDate>Mon, 11 Nov 2024 19:06:46 -0500</pubDate>
-      <guid>http://localhost:1313/en/post/2024/my-new-post-2/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Getting Started with Hugo: A Beginner&#39;s Guide</title>
       <link>http://localhost:1313/en/post/2024/getting-started-with-hugo-a-beginners-guide/</link>
       <pubDate>Mon, 11 Nov 2024 19:05:38 -0500</pubDate>
@@ -63,13 +56,6 @@
       <pubDate>Sun, 10 Nov 2024 22:13:03 -0500</pubDate>
       <guid>http://localhost:1313/en/post/2024/new-structure-test/</guid>
       <description>test test test test Your browser does not support the video tag.&#xD;</description>
-    </item>
-    <item>
-      <title>Person Video</title>
-      <link>http://localhost:1313/en/post/2024/person-video/</link>
-      <pubDate>Sun, 10 Nov 2024 22:13:03 -0500</pubDate>
-      <guid>http://localhost:1313/en/post/2024/person-video/</guid>
-      <description>Person Video Introduction This is a video about a person.&#xA;Video Here is the video:&#xA;Your browser does not support the video tag.&#xD;</description>
     </item>
     <item>
       <title>AI谈论推荐算法与信息茧房的问题</title>
