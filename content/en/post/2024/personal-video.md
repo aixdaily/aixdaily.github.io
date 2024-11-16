@@ -3,7 +3,7 @@ title: "Focus on your peace"
 date: 2024-11-14T14:27:23-05:00
 description : "Description goes here..."
 tags: [""]
-image : ""
+image: "person-video-first-frame.jpg"
 draft: true
 ---
 
