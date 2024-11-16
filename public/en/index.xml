@@ -156,6 +156,13 @@
       <description>Markdown 入门指南：给初学者的详细说明 什么是 Markdown？ Markdown 是一种轻量级的文本格式化工具，它让你能够用简单的符号来美化文本。想象一下，它就像是一个更简单的 Word，但是用的是特殊符号而不是按钮来排版。&#xA;为什么要用 Markdown？ 简单易学&#xA;只需要记住几个符号 不需要复杂的软件 写作过程不被打断 通用性强&#xA;可以转换成网页 可以转换成 PDF 几乎所有平台都支持 实用场景广&#xA;写博客 做笔记 写文档 写说明书 基础语法示例 1. 标题的写法 # 一级标题 ## 二级标题 ### 三级标题 效果如下：</description>
     </item>
     <item>
+      <title>Person Video</title>
+      <link>http://localhost:1313/en/post/2024/person-video/</link>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/2024/person-video/</guid>
+      <description>Here is the video:&#xA;Your browser does not support the video tag.&#xD;</description>
+    </item>
+    <item>
       <title>Collections No.1</title>
       <link>http://localhost:1313/en/collections/2023/collections/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
