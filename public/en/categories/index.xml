@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Ai x Daily</title><link>https://aixdaily.github.io/en/categories/</link><description>Recent content in Categories on Ai x Daily</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aixdaily.github.io/en/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Business</title><link>https://aixdaily.github.io/en/categories/business/</link><pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate><guid>https://aixdaily.github.io/en/categories/business/</guid><description/></item><item><title>Entrepreneurship</title><link>https://aixdaily.github.io/en/categories/entrepreneurship/</link><pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate><guid>https://aixdaily.github.io/en/categories/entrepreneurship/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ai x Daily</title>
+    <link>https://aixdaily.github.io/en/categories/</link>
+    <description>Recent content in Categories on Ai x Daily</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aixdaily.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business</title>
+      <link>https://aixdaily.github.io/en/categories/business/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://aixdaily.github.io/en/categories/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entrepreneurship</title>
+      <link>https://aixdaily.github.io/en/categories/entrepreneurship/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://aixdaily.github.io/en/categories/entrepreneurship/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
